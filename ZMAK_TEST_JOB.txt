@@ -12,5 +12,8 @@ START-OF-SELECTION.
   WRITE : 'test job', sy-uzeit.
 
 
+* this is a test of using Github
+
+
 
 END-OF-SELECTION.
